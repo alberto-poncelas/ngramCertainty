@@ -45,8 +45,3 @@ Este periódico aborda varios lados de la evolución de la historia con dichos d
 Las fotos que tomó allí dan una rara mirada al interior del sistema penitenciario del país .
 la regla es : sin tarjeta , sin boleto .
 Los periodistas no pueden reunirse con funcionarios de alto rango para informar a las conferencias oficiales
-Los cineastas combinaron estas entrevistas con los seis participantes para crear un retrato que explora la distancia de los inmigrantes .
-Es uno de esos jóvenes que han venido para comenzar negocios en sectores de alto crecimiento como la tecnología y las redes sociales .
-El gobierno no debe matar a los periodistas para controlar la prensa , en general , los periodistas que poseen tarjetas de periodista no pueden hacer el valiente trabajo .
-El tratado lleva el nombre de los residentes que han sufrido envenenamiento por mercurio desde 1950 .
-atrae a empresarios que carecen de los mercados y la infraestructura necesarios

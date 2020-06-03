@@ -20,8 +20,8 @@ NGRCERT_PATH=path/to/ngramCertainty
 ```
 Then execute the program.
 ```
-pathFrom=$NGRCERT_PATH/data/parallel_data.src
-pathTo=$NGRCERT_PATH/data/parallel_data.trg
+pathFrom=$NGRCERT_PATH/data/parallel_data_src
+pathTo=$NGRCERT_PATH/data/parallel_data_trg
 pathTestSet=$NGRCERT_PATH/data/test_set
 outputPath=$NGRCERT_PATH/data
 
